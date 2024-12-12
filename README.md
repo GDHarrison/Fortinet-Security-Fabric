@@ -27,12 +27,14 @@ Screenshot 1 (Network Diagram) <br>
 
 
 
-Screenshot 2 (Run) <br>
+Screenshot 2 (Root Fortigate) <br>
 This shows the full view of the security fabric and all connected devices. This view is from the root firewall <br>
 Compromised devices can be easily disconncted and quarantined from this singular device.
 <img width="1106" alt="image" src="https://github.com/user-attachments/assets/0eab695a-929f-41b9-a078-4f9ec38faaba" />
 
-
+Screenshot 3 (Root Fortigate) <br>
+This shows that all connected devices can be easily accessed from the singular interface
+<img width="1109" alt="image" src="https://github.com/user-attachments/assets/b1696c6d-8b66-42fb-852e-368b54493d32" />
 
 
 
