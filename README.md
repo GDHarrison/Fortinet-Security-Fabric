@@ -37,6 +37,10 @@ This shows that all connected devices can be easily accessed from the singular i
 <img width="1109" alt="image" src="https://github.com/user-attachments/assets/b1696c6d-8b66-42fb-852e-368b54493d32" />
 
 
+Screenshot 4 (Log View Root Fortigate) <br>
+This shows blocked traffic based on configured firewall policy and attaches a corresponding rating
+<img width="1114" alt="image" src="https://github.com/user-attachments/assets/19c31163-eae4-4670-b05c-9ae379286f8f" />
+
 
 
 
