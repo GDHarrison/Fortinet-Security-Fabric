@@ -28,8 +28,10 @@ Screenshot 1 (Network Diagram) <br>
 
 
 Screenshot 2 (Run) <br>
-This shows the functional script
-<img width="1439" alt="image" src="https://github.com/user-attachments/assets/10d9335b-49ad-43bd-8613-2878bdaa7722" />
+This shows the full view of the security fabric and all connected devices. This view is from the root firewall <br>
+Compromised devices can be easily disconncted and quarantined from this singular device.
+<img width="1106" alt="image" src="https://github.com/user-attachments/assets/0eab695a-929f-41b9-a078-4f9ec38faaba" />
+
 
 
 
