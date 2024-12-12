@@ -21,6 +21,7 @@ This is my capstone project that shows the importance of a unified, integrated, 
 
 
 ## Screenshots
+Screenshot 1 (Network Diagram) <br>
 This shows a connection between two networks connected via an IPSec VPN
 Screenshot 1 (Network Diagram) <br>
 <img width="707" alt="image" src="https://github.com/user-attachments/assets/ce76d04d-bf32-4295-95dc-8daaadfc6f07" />
